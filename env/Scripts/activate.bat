@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\My repository\Children Uni rebuilding\back-end\env
+set VIRTUAL_ENV=D:\My repository\Self-projects\Children Uni rebuilding\KidsUni-Back-End\env
 
 if not defined PROMPT set PROMPT=$P$G
 
